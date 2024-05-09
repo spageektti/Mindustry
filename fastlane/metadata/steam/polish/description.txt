@@ -1,0 +1,62 @@
+Mindustry to gra o budowaniu fabryk z elementami tower defense i RTS. Twórz rozbudowane łańcuchy dostaw, aby dostarczać amunicję do wieżyczek, produkować materiały do budowy i konstruować jednostki. Dowódź jednostkami, aby przejmować bazy wroga i zwiększać produkcję. Broń swojego rdzenia przed falami wrogów.
+
+Rozegraj kampanię w pojedynkę lub ze znajomymi w wieloplatformowym trybie współpracy i zmierz się z nimi w drużynowych meczach PvP.
+
+[img]{STEAM_APP_IMAGE}/extras/factory.gif[/img]
+
+[h2]Budowanie Fabryki[/h2]
+
+[list]
+[*] Twórz rozbudowane łańcuchy przenośników taśmowych, aby dostarczać amunicję do wieżyczek i produkować materiały do budowy.
+[*] Używaj bloków produkcyjnych do tworzenia szerokiej gamy zaawansowanych materiałów.
+[*] Dystrybuuj płyny i walcz z ciągłymi wyzwaniami, takimi jak wybuchy pożarów lub naloty wrogich myśliwców.
+[*] Wykorzystaj w pełni swoją produkcję, dostarczając opcjonalne chłodziwo i smar
+[*] Produkuj szeroką gamę jednostek do automatycznego zarządzania bazą lub atakowania baz wroga.
+[/list]
+
+[h2]Tower Defense[/h2]
+
+[list]
+[*] Broń swoich struktur przed falami wrogów.
+[*] Strategicznie rozmieszczaj wieżyczki, by niszczyć wrogów, zanim dotrą do rdzenia.
+[*] Zaopatrz swoje wieżyczki w amunicję, chłodziwo i energię.
+[*] Wzmocnij swoją obronę dzięki zasilanym tarczom, projektorom regeneracyjnym i innym budynkom pomocniczym.
+[/list]
+
+[img]{STEAM_APP_IMAGE}/extras/rts3.png[/img]
+
+[h2]Strategia Czasu Rzeczywistego (RTS)[/h2]
+
+[list]
+[*] Stwórz linie montażowe do budowy armii jednostek zmechanizowanych.
+[*] Wykorzystaj swoje jednostki do walki z w pełni funkcjonalnymi bazami wroga.
+[*] Zdobywaj kolejne terytoria, aby stawiać więcej rdzeni i uzyskać dostęp do dodatkowych zasobów do ekspansji.
+[/list]
+
+[h2]Kampania[/h2]
+
+[list]
+[*] Rozegraj dwie oddzielne kampanie planetarne.
+[*] Podbij planety Serpulo i Erekir, przemierzając 35 ręcznie wykonanych map i ponad 250 proceduralnie generowanych sektorów.
+[*] Zdobywaj terytoria i zakładaj fabryki, by produkować surowce podczas gry w innych sektorach.
+[*] Broń swoich sektorów przed okresowymi inwazjami.
+[*] Koordynuj dystrybucję zasobów między sektorami za pomocą wyrzutni.
+[*] Badaj nowe bloki, aby napędzać postęp.
+[*] Zapraszaj znajomych do wspólnego wykonywania misji.
+[*] Ponad 250 bloków technologicznych do opanowania.
+[*] Ponad 50 różnych typów dronów, mechów i statków.
+[*] Ponad 80 osiągnięć do zdobycia.
+[/list]
+
+[h2]Społeczność i Modowanie[/h2]
+
+[list]
+[*] Korzystaj z warsztatu Steam, aby przeglądać mapy i schematy stworzone przez społeczność.
+[*] Dołącz do publicznych serwerów społeczności, aby grać z innymi na różnych platformach.
+[*] Graj w trybie kooperacji, PvP lub piaskownicy.
+[*] Serwery społeczności obsługują wtyczki dla niestandardowych map i trybów gry.
+[*] Stwórz własny publiczny serwer dedykowany lub zaproś znajomych do prywatnej sesji.
+[*] Konfigurowalne zasady gry: Zmieniaj koszty bloków, statystyki wrogów, przedmioty startowe, czas fal i nie tylko.
+[*] Wbudowany edytor map pozwala tworzyć własne mapy i dzielić się nimi ze społecznością.
+[*] Przeglądaj mody stworzone przez społeczność, aby dodać lub zremiksować jeszcze więcej treści.
+[/list]
