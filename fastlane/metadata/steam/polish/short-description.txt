@@ -1,0 +1,1 @@
+Otwarta gra o zarządzaniu fabryką z elementami RTS i tower defense.
